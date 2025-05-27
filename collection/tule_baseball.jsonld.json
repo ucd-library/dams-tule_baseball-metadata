@@ -1,0 +1,63 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+   "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+    },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/775742"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1801850"
+    },
+    { 
+      "@id": "http://id.worldcat.org/fast/827904"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/2028874"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:description": "Gives a historical perspective of an internment camp for Japanese Americans in 1944, where baseball served several functions. Includes pitching and batting records and averages, teams and their rosters, and a recap of the All-Star games and the Elimination Tournament.",
+  "schema:identifier": [
+    "ark:/87293/d3zp3w73h",
+    "P-130, Box:22, Folder:4"
+  ],
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3zp3w73h/media/images/P-130_022_004_0001.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Baseball, Tule Lake Center, 1944",
+  "schema:publisher": [
+    "UC Davis Library, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+}

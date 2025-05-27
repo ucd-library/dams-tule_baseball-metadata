@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+    {
+        "@id": "http://id.worldcat.org/fast/775742",
+        "http://schema.org/name": "Tule Lake Relocation Center"
+    },
+    {
+   		"@id": "http://id.worldcat.org/fast/1801850",
+   		"http://schema.org/name": "Forced removal and internment of Japanese Americans (1942-1945)"
+    },
+    {
+    	"@id": "http://id.worldcat.org/fast/827904",
+    	"http://schema.org/name": "Baseball"
+    },
+    {
+    	"@id": "http://id.worldcat.org/fast/2028874",
+    	"http://schema.org/name": "Internment camps"
+    },
+]
